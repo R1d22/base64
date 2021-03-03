@@ -1,0 +1,14 @@
+.image {
+
+	margin-top: 200px;
+	margin-left: 100px;
+}
+.icons {
+	width: 300px;
+	height: 300px
+}
+
+.different:hover {
+	
+	fill:coral;
+}
